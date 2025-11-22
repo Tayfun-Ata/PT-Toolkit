@@ -1,6 +1,6 @@
-# 🛠️ Toolkit
+# 🛠️ PT-Toolkit
 
-Toolkit is a Python-based suite designed to assist penetration testers and security enthusiasts through various stages of a penetration test. It offers both command-line and GUI-based management of tools, supporting automation for reconnaissance, scanning, exploitation, and report generation.
+PT-Toolkit is a Python-based suite designed to assist penetration testers and security enthusiasts through various stages of a penetration test. It offers both command-line and GUI-based management of tools, supporting automation for reconnaissance, scanning, exploitation, and report generation.
 
 ---
 
